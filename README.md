@@ -8,7 +8,7 @@
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/spotify-clone.git
+git clone https://github.com/Omurbek1/Spotify_Clone
 
 npm i
 
